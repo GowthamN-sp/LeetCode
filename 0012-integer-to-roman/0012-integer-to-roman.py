@@ -6,9 +6,9 @@ class Solution(object):
         """
         val=[1000,900,500,400,100,90,50,40,10,9,5,4,1]
         sbl=["M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"]
-        res=""
+        res=''
         for i in range(len(val)):
-            while num >=val[i]:
+            while num>=val[i]:
                 res+=sbl[i]
                 num-=val[i]
         return res
