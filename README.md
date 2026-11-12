@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GowthamN-sp/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/GowthamN-sp/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/GowthamN-sp/LeetCode/tree/master/0258-add-digits) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GowthamN-sp/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/GowthamN-sp/LeetCode/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/GowthamN-sp/LeetCode/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GowthamN-sp/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/GowthamN-sp/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/GowthamN-sp/LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GowthamN-sp/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/GowthamN-sp/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GowthamN-sp/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/GowthamN-sp/LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/GowthamN-sp/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/GowthamN-sp/LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/GowthamN-sp/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/GowthamN-sp/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
