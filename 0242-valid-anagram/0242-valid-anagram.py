@@ -5,4 +5,13 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        return sorted(s)==sorted(t)
+        if len(s)!=len(t):
+            return False
+        d={}
+        for ch in s:
+            d[ch]=d.get(ch,0)+1
+        for ch in t:
+            if d.get(ch,0)==0:
+                return False
+            d[ch]-=1
+        return True
